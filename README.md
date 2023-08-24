@@ -6,8 +6,8 @@
 
 ### Links ⚡️
 
-- 📫 [garam8u2@gmail.com]
-- 😄 [www.linkedin.com/in/ujugaram]
+- 📫 garam8u2@gmail.com
+- 😄 www.linkedin.com/in/ujugaram
 
 <!--
 **ujujungbuck/ujujungbuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
