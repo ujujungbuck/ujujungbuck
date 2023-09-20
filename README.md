@@ -8,7 +8,7 @@
 ### Stacks 🪄
 
 - Languages : Javascript, Typescript, HTML, CSS
-- Frontend : React, Redux, Recoil, Styled-Components
+- Frontend : React, Redux, Recoil, Styled-Components, Tailwind, Next.js
 - Tools : Git, Notion, Discord, Postman, etc.
 
 ### Links ⚡️
